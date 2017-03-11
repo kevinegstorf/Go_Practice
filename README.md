@@ -1,1 +1,1 @@
-# first_go
+# Just getting to know Golang.
